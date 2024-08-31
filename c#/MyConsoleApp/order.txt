@@ -1,0 +1,8 @@
+- + (plus and minus)     LTR
+%*/                      LTR
++ - (math)               LTR
+< <= > >=                LTR
+==                       LTR
+&& ||                    LTR
+? :                      RTL
+=                        RTL
